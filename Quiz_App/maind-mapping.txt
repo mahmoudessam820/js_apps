@@ -1,0 +1,23 @@
+Quiz App Tasks
+
+1  - Create JOSN object for questions.
+2  - Start creating HTML.
+3  - Add dummy data.
+4  - Create the styling.
+5  - Fetch number for questions from JSON object.
+6  - Show questions count + questions category.
+7  - Show the number of bullets depend on questions.
+8  - Set the number for the right and wrong answers.
+9  - Create countdomn timer.
+10 - Fetch the questions from JSON object.
+11 - Show frist questions.
+12 - Check answers and hide question then show next one.
+13 - If the time end mark the question as wrong and show next question.
+14 - Add class on bullet after answering the question.
+15 - If qusetions finished show thw results.
+
+Futures
+
+- Many JSON objects and choose language.
+- Add many questions and choose only 10 randomly.
+- Randomize answers with (Shuffle function). 

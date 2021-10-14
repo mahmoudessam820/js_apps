@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "index",
+            "url": "file:///E:/Mahmoud/Elzero%20Web%20School/big_javascript_tutorials/index.html",
+            "webRoot": "${big_javascript_tutorials}"
+        }
+    ]
+}
